@@ -1,4 +1,4 @@
-# Welcome to `rednote-hilab` Family
+# Welcome to the `rednote-hilab` Family
 
 ## Introduction
 Founded in Shanghai in 2013, rednote is a platform where users capture and share their lives through photos, text, videos, and live streams, building an interactive community around shared interests. Guided by its mission to *Inspire Lives*, rednote is becoming a vibrant hub for diverse lifestyles and a trusted companion to millions. The rednote hilab team — where “hi” stands for *humane intelligence* — is dedicated to pushing the boundaries of AI by creating more diverse and balanced forms of intelligence, such as interpersonal, spatial-visual, and musical intelligence and more. Our ultimate goal is to make AI a truly natural and beneficial companion to humanity.
