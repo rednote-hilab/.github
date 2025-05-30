@@ -1,10 +1,8 @@
-# Welcome to dots Family
+# Welcome to `rednote-hilab` Family
 
 ## Introduction
-
+Founded in Shanghai in 2013, rednote is a platform where users capture and share their lives through photos, text, videos, and live streams, building an interactive community around shared interests. Guided by its mission to *Inspire Lives*, rednote is becoming a vibrant hub for diverse lifestyles and a trusted companion to millions. The rednote hilab team — where “hi” stands for *humane intelligence* — is dedicated to pushing the boundaries of AI by creating more diverse and balanced forms of intelligence, such as interpersonal, spatial-visual, and musical intelligence and more. Our ultimate goal is to make AI a truly natural and beneficial companion to humanity.
 
 ## Research
-* [Dots-V1 Technical Report]() We released (i) checkpoints for state-of-the-art medium-sized models and (ii) training recipes for the MoE models.
+* [dots.llm1 Technical Report]() We released (i) checkpoints for state-of-the-art medium-sized models and (ii) training recipes for the MoE models.
 
-## About
-Founded in Shanghai in 2013, rednote is a platform where users record and share their lives through photos, text, videos, and live streams, building an interactive community around shared interests. Guided by its mission to "Inspire Lives", rednote is becoming a vibrant hub for diverse lifestyles and a trusted guide for people as they discover and enrich their daily lives.
